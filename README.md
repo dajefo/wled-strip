@@ -12,12 +12,26 @@
 - [Wire Connector](https://de.aliexpress.com/item/4000145341391.html?spm=a2g0o.productlist.0.0.6fdc46b9sdjcnh&algo_pvid=89ddaae7-6b22-435b-ac7c-fb46ebc3fd3c&algo_expid=89ddaae7-6b22-435b-ac7c-fb46ebc3fd3c-7&btsid=0bb0623616032993704351961ed634&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 - [LED Profile](https://www.topled.ch/SILER-Aufbauprofil-Aluminium-eloxiert) (from a local store)
 - [Software](https://github.com/Aircoookie/WLED)
+- 3D Printer (I used a Alta+)
 
+<br>
+<br>
 
+## 3D Printing
+Just download the [models](/doc/3d_objects/) and you are good to go.
+
+<br>
+<br>
+
+## Software
+Download the [actual version from Aircookie's github](https://github.com/Aircoookie/WLED/releases) and flash it to the arduino board.
+
+<br>
+<br>
 
 ## Soldering
-If you did order the Dev Board in the descitpion you just can cut it in half.<br>
-It should fit to the 3D print [object ground](/doc/3d_objects/Ground.obj) <br>
+If you did order the Dev Board in the description you just can cut it in half.<br>
+It should fit to the 3D print object ground.<br>
 Soldering like the picture below.<br>
 ![](/doc/pic/pic1.jpeg)
 
@@ -67,3 +81,15 @@ Get the top on it (maybe you should do this before connecting the wires).<br>
 
 Finished :)<br>
 ![](/doc/pic/pic9.jpeg)
+
+<br>
+
+Video:
+
+<br>
+<br>
+
+## Extra
+If you want to use the LED light with audio just try [LedFX](https://github.com/ahodges9/LedFx) it works like a charm with Aircookie's Wled.<br>
+
+Video:
