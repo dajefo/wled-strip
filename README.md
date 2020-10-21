@@ -2,7 +2,7 @@
 
 ## Stuff you need
 
-- [Netzteil](https://de.aliexpress.com/item/1005001303324684.html?spm=a2g0s.9042311.0.0.1af34c4dsxGvdi)
+- [Power Supply](https://de.aliexpress.com/item/1005001303324684.html?spm=a2g0s.9042311.0.0.1af34c4dsxGvdi)
 - [Dev Board](https://de.aliexpress.com/item/33005775828.html?spm=a2g0s.9042311.0.0.1af34c4dsxGvdi)
 - [DC Jack](https://de.aliexpress.com/item/4001249055244.html?spm=a2g0s.9042311.0.0.1af34c4dsxGvdi)
 - [WS2812B Strip](https://de.aliexpress.com/item/4000744445376.html?spm=a2g0s.9042311.0.0.1af34c4dsxGvdi)
