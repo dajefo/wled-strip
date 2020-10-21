@@ -91,8 +91,9 @@ Finished :)<br>
 <br>
 
 ## Extra
-If you want to use the LED light with audio just try [LedFX](https://github.com/ahodges9/LedFx) it works like a charm with Aircookie's Wled.<br>
+If you want to use the LED light with audio, just try [LedFX](https://github.com/ahodges9/LedFx) it works like a charm with Aircookie's Wled.<br>
 
-Video:
+<br>
+
 ([Video click on it for youtube](https://www.youtube.com/watch?v=0bXIf_zYLFY)):<br>
 [![ledfx](/doc/vid/music.gif)](https://www.youtube.com/watch?v=0bXIf_zYLFY)
