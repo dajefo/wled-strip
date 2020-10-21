@@ -12,3 +12,7 @@
 - [Wire Connector](https://de.aliexpress.com/item/4000145341391.html?spm=a2g0o.productlist.0.0.6fdc46b9sdjcnh&algo_pvid=89ddaae7-6b22-435b-ac7c-fb46ebc3fd3c&algo_expid=89ddaae7-6b22-435b-ac7c-fb46ebc3fd3c-7&btsid=0bb0623616032993704351961ed634&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 - [LED Profile](https://www.topled.ch/SILER-Aufbauprofil-Aluminium-eloxiert) (from a local store)
 - [Software](https://github.com/Aircoookie/WLED)
+
+
+![GitHub Logo](/pic/pic1.jpeg)
+Format: ![Alt Text](url)
