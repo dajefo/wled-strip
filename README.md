@@ -1,6 +1,6 @@
 # WLED Strip
 
-## Stuff you need to buy
+## Stuff you need
 
 - [Netzteil](https://de.aliexpress.com/item/1005001303324684.html?spm=a2g0s.9042311.0.0.1af34c4dsxGvdi)
 - [Dev Board](https://de.aliexpress.com/item/33005775828.html?spm=a2g0s.9042311.0.0.1af34c4dsxGvdi)
