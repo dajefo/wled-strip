@@ -14,5 +14,5 @@
 - [Software](https://github.com/Aircoookie/WLED)
 
 
-(/doc/pic/pic1.jpeg)
+![GitHub Logo](/doc/pic/pic1.jpeg)
 
