@@ -90,6 +90,13 @@ Finished :)<br>
 <br>
 <br>
 
+
+## Home Assistant
+You can use this led in Home Assistant. Just add it under integrations and it should be fully compatible with it.
+
+<br>
+<br>
+
 ## Extra
 If you want to use the LED light with audio, just try [LedFX](https://github.com/ahodges9/LedFx) it works like a charm with Aircookie's Wled.<br>
 
