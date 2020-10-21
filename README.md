@@ -1,1 +1,1 @@
-# wled-stip
+# wled-strip
