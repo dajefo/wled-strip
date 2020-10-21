@@ -18,31 +18,52 @@
 ## Soldering
 If you did order the Dev Board in the descitpion you just can cut it in half.<br>
 It should fit to the 3D print [object ground](/doc/3d_objects/Ground.obj) <br>
-Soldering like the picture below.
-<br>
-
+Soldering like the picture below.<br>
 ![](/doc/pic/pic1.jpeg)
 
 <br>
 <br>
 
 Back: <br>
-
 ![](/doc/pic/pic2.jpeg)
 
 <br>
 <br>
 
 Now attach the wires.<br>
-
 ![](/doc/pic/pic3.jpeg)
 
 <br>
 <br>
 
 Back:<br>
-
 ![](/doc/pic/pic4.jpeg)
 
-test:<br>
+<br>
+<br>
+
+Now attach the wire connectors.<br>
 ![](/doc/pic/pic5.jpeg)
+
+<br>
+<br>
+
+Fit the arduino board inside the 3D print.<br>
+![](/doc/pic/pic6.jpeg)
+
+<br>
+<br>
+
+![](/doc/pic/pic7.jpeg)
+
+<br>
+<br>
+
+Get the top on it (maybe you should do this before connecting the wires).<br>
+![](/doc/pic/pic8.jpeg)
+
+<br>
+<br>
+
+Finished :)<br>
+![](/doc/pic/pic9.jpeg)
