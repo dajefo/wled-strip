@@ -16,3 +16,4 @@
 
 ![](/doc/pic/pic1.jpeg)
 
+![](/doc/pic/pic2.jpeg)
