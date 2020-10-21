@@ -84,7 +84,7 @@ Finished :)<br>
 
 <br>
 
-Video ([click here for youtube]((www.youtube.com)):<br>
+Video ([click here for youtube]((https://www.youtube.com)):<br>
 ![a](/doc/vid/wled.gif)
 
 <br>
