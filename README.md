@@ -84,7 +84,7 @@ Finished :)<br>
 
 <br>
 
-([Video click on it for youtube](https://www.youtube.com/watch?v=cf00crw5-ws)):<br>
+[Video click on it for youtube](https://www.youtube.com/watch?v=cf00crw5-ws):<br>
 [![wled](/doc/vid/wled.gif)](https://www.youtube.com/watch?v=cf00crw5-ws)
 
 <br>
@@ -95,5 +95,5 @@ If you want to use the LED light with audio, just try [LedFX](https://github.com
 
 <br>
 
-([Video click on it for youtube](https://www.youtube.com/watch?v=0bXIf_zYLFY)):<br>
+[Video click on it for youtube](https://www.youtube.com/watch?v=0bXIf_zYLFY):<br>
 [![ledfx](/doc/vid/music.gif)](https://www.youtube.com/watch?v=0bXIf_zYLFY)
