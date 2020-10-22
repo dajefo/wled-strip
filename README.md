@@ -92,7 +92,7 @@ Finished :)<br>
 
 
 ## Home Assistant
-You can use this led in Home Assistant. Just add it under integrations and it should be fully compatible with it.
+You can use this led in Home Assistant. Just add it in integrations and it should be fully compatible with it.
 
 <br>
 <br>
